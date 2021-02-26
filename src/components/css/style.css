@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+body
+{
+
+  background-image: url("../css/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 800px;
+}
+.center-div
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 25%;
+  height: 50%;
+  background-color: rgb(243, 172, 172);
+  border-radius: 10px;
+  text-align: center;
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+  }
+  
+  .form-control-underlined {
+    border-width: 0;
+    border-bottom-width: 1px;
+    border-radius: 0;
+    padding-left: 0;
+    
+  }
+
+  
+  .form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+  }
+
+.rah{
+    width: 80%;
+    margin-top: 3%;
+    margin-left: 12%;
+    border-radius: 20px;
+}
+
+.fas
+{
+    font-size: 50px;
+    color: rgb(105, 105, 103);
+}
+
+.city
+{
+    font-family: 'Anton', sans-serif;
+}
+
+h6
+{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 500;
+
+
+
+}
+
+
