@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whetherappREACTJs/static/css/main.70bf5d05.chunk.css",
+    "main.js": "/whetherappREACTJs/static/js/main.f6dfed93.chunk.js",
+    "main.js.map": "/whetherappREACTJs/static/js/main.f6dfed93.chunk.js.map",
+    "runtime-main.js": "/whetherappREACTJs/static/js/runtime-main.2fce887f.js",
+    "runtime-main.js.map": "/whetherappREACTJs/static/js/runtime-main.2fce887f.js.map",
+    "static/js/2.e8d4ee81.chunk.js": "/whetherappREACTJs/static/js/2.e8d4ee81.chunk.js",
+    "static/js/2.e8d4ee81.chunk.js.map": "/whetherappREACTJs/static/js/2.e8d4ee81.chunk.js.map",
+    "static/js/3.af4d1769.chunk.js": "/whetherappREACTJs/static/js/3.af4d1769.chunk.js",
+    "static/js/3.af4d1769.chunk.js.map": "/whetherappREACTJs/static/js/3.af4d1769.chunk.js.map",
+    "index.html": "/whetherappREACTJs/index.html",
+    "static/css/main.70bf5d05.chunk.css.map": "/whetherappREACTJs/static/css/main.70bf5d05.chunk.css.map",
+    "static/js/2.e8d4ee81.chunk.js.LICENSE.txt": "/whetherappREACTJs/static/js/2.e8d4ee81.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/whetherappREACTJs/static/media/bg.aeeeece9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fce887f.js",
+    "static/js/2.e8d4ee81.chunk.js",
+    "static/css/main.70bf5d05.chunk.css",
+    "static/js/main.f6dfed93.chunk.js"
+  ]
+}
